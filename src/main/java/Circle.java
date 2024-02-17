@@ -1,4 +1,4 @@
-class Circle {
+public class Circle {
     int radius = 2;
     double MathPi = 3.14;
 
